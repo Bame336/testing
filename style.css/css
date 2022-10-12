@@ -1,0 +1,16 @@
+ section{
+            color: black;
+            font-size: 24px;
+            background-color: blue;
+
+        }
+        h1 {
+            color: red;
+            background-color: blue;
+
+        }
+        p {
+            color: white;
+            background-color: black;
+        }
+        
